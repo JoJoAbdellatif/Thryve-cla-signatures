@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "ItzEnigma",
+      "id": 97047710,
+      "comment_id": 6739559102,
+      "created_at": "2026-11-09T12:02:22Z",
+      "repoId": 1374179864,
+      "pullRequestNo": 1
+    }
+  ]
 }
